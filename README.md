@@ -1,5 +1,7 @@
 # NVIDIA Fan Control Utility
 
+*** This utility was created for use with server workstation graphic cards, like my NVIDIA Tesla V100 32GB AI Rig has with passive cooling to control the loud 8kRPM Artic fan speed using the Fan Control Windows application. ***
+
 A clean, dark-themed Windows GUI (C# / WinForms, .NET 8) that monitors NVIDIA GPUs.
 It runs `nvidia-smi` through **PowerShell** on a 5-second timer, parses the console
 output, and shows each GPU in its own card with:
