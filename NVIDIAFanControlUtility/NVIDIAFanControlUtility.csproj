@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>NVIDIAFanControlUtility</RootNamespace>
+    <AssemblyName>NVIDIAFanControlUtility</AssemblyName>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <Version>1.0.0</Version>
+    <Product>NVIDIA Fan Control Utility</Product>
+    <Description>Live NVIDIA GPU monitor that runs nvidia-smi via PowerShell.</Description>
+  </PropertyGroup>
+
+</Project>

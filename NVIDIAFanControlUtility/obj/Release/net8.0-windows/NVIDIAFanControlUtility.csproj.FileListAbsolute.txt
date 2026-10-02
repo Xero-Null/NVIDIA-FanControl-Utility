@@ -1,0 +1,14 @@
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\bin\Release\net8.0-windows\NVIDIAFanControlUtility.exe
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\bin\Release\net8.0-windows\NVIDIAFanControlUtility.deps.json
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\bin\Release\net8.0-windows\NVIDIAFanControlUtility.runtimeconfig.json
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\bin\Release\net8.0-windows\NVIDIAFanControlUtility.dll
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\bin\Release\net8.0-windows\NVIDIAFanControlUtility.pdb
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\obj\Release\net8.0-windows\NVIDIAFanControlUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\obj\Release\net8.0-windows\NVIDIAFanControlUtility.AssemblyInfoInputs.cache
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\obj\Release\net8.0-windows\NVIDIAFanControlUtility.AssemblyInfo.cs
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\obj\Release\net8.0-windows\NVIDIAFanControlUtility.csproj.CoreCompileInputs.cache
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\obj\Release\net8.0-windows\NVIDIAFanControlUtility.dll
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\obj\Release\net8.0-windows\refint\NVIDIAFanControlUtility.dll
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\obj\Release\net8.0-windows\NVIDIAFanControlUtility.pdb
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\obj\Release\net8.0-windows\NVIDIAFanControlUtility.genruntimeconfig.cache
+C:\Users\matt2\Desktop\GPU_Display\GPU_Display\NVIDIAFanControlUtility\obj\Release\net8.0-windows\ref\NVIDIAFanControlUtility.dll
